@@ -5,5 +5,5 @@ Social Proof Section challenger designed by Frontend Mentor and coded by YohanR1
 complete the desing whitout having to use display: flex, which
 i was getting a little too dependant on, so i am happy that i can
 make layouts purely using display: grid (which is actually more potent).
-Also is easer to make responsive desings by using Mozilla Responsive Dev Tools
-and by using the standar of starting whit mobile desing first.
+Also is easier to make responsive designs by using Mozilla Responsive Dev Tools
+and by starting whit mobile desing first.
